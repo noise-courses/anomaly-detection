@@ -32,6 +32,15 @@ pipeline is 10/10.
   is the bar, and ties go to you.
 - **Written answers count.** Items 2.3, 3.1b, 3.2b, and 3.3b require a
   sentence or two of explanation, not just code.
+- **Google Home labels (Autumn 2026).** The Google Home label file in the data
+  repository was wrong until the evening of the due date (its times were on a
+  clock that did not match the capture). Any Part 3 done on the Nest Cam trace
+  earns full credit; a Part 3 attempted on the Google Home trace earns full
+  credit on 3.1b and 3.2a/b for a good-faith alignment, whatever came out of
+  it. The rebuilt label file (`google_home_labels.txt`, with a `README.md`
+  beside it) is in the data repository now; a later push that redoes Part 3
+  on the Google Home with it is accepted as extra credit and does not count
+  as late.
 - **One device is enough.** Part 3 asks you to work with one or more of the
   device traces. One trace and one activity type (e.g., music playing vs.
   idle on the Google Home) earns full credit; more devices or activity types
